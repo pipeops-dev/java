@@ -24,12 +24,12 @@
         <java.version>17</java.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <tomcat.version>10.1.34</tomcat.version>
-        <spring-framework.version>6.1.13</spring-framework.version>
-        <spring-security.version>6.3.3</spring-security.version>
+        <tomcat.version>10.1.53</tomcat.version>
+        <spring-framework.version>6.2.17</spring-framework.version>
+        <spring-security.version>6.5.9</spring-security.version>
         <snakeyaml.version>2.3</snakeyaml.version>
-        <jackson-bom.version>2.17.2</jackson-bom.version>
-        <logback.version>1.5.8</logback.version>
+        <jackson-bom.version>2.18.6</jackson-bom.version>
+        <logback.version>1.5.19</logback.version>
     </properties>
 
     <dependencies>
